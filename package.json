@@ -7,7 +7,8 @@
     "dev": "next",
     "build": "next build",
     "export": "next export",
-    "deploy": "cd oout && now --public"
+    "deploy": "cd oout && now --public",
+    "now-build": "next build && next export -o dist"
   },
   "keywords": [],
   "author": "",

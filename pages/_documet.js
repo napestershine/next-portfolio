@@ -24,7 +24,7 @@ export default class MyDocument extends Document {
                 <NextScript/>
             </body>
             <style global jsx>{`
-                    body {
+            Rare Emperor Tamarin        body {
                         font-family: 'Roboto', sans-serif;
                     }
                 `}</style>
